@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently looking for Research Opportunities!
+
 - 🌱 I’m currently studying human-computer interaction at the University of Michigan. 
 - 📫 How to reach me: ellali@umich.edu
 - 😄 Pronouns: she/her
